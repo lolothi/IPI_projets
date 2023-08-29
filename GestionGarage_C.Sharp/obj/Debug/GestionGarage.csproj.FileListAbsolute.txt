@@ -1,0 +1,6 @@
+/home/laurent/RiderProjects/GestionGarage/GestionGarage/obj/Debug/GestionGarage.csproj.AssemblyReference.cache
+/home/laurent/RiderProjects/GestionGarage/GestionGarage/obj/Debug/GestionGarage.csproj.CoreCompileInputs.cache
+/home/laurent/RiderProjects/GestionGarage/GestionGarage/bin/Debug/GestionGarage.exe
+/home/laurent/RiderProjects/GestionGarage/GestionGarage/bin/Debug/GestionGarage.pdb
+/home/laurent/RiderProjects/GestionGarage/GestionGarage/obj/Debug/GestionGarage.exe
+/home/laurent/RiderProjects/GestionGarage/GestionGarage/obj/Debug/GestionGarage.pdb
